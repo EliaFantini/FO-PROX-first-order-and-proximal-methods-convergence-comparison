@@ -76,7 +76,7 @@ python run_theoretical_vs_emprical_conv_rate.py
 
 - **Answers.pdf**: pdf with the answers and plots to the assignment of the course
 
-- **Exercise instructions.py**: pdf with the questions of the assignment of the course
+- **Exercise instructions.pdf**: pdf with the questions of the assignment of the course
 
 ## 🛠 Skills
 Python, Matplotlib. Machine learning, proximal methods, theoretical Analysis knowledge of convergence rates, implementation of optimization methods.
